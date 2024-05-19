@@ -494,8 +494,28 @@ hash = "2823f67bc12454a6941062d99254aba1e31b2b9b639a030c2d5548df9df863d1"
 metafile = true
 
 [[files]]
+file = "mods/alexs-mobs.pw.toml"
+hash = "2c31b3651fd6df13a65721fe596a0e3dd63f15148301a953d0e8789dce882d64"
+metafile = true
+
+[[files]]
+file = "mods/athena.pw.toml"
+hash = "2b4edecc8ef931390e61f700105c0e44f3c3b18d8d56df8efb8468a740232499"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "d02b891b8549c4bacda20466c941001255efd7f184f5ff6bd662ef90c9f6de95"
+metafile = true
+
+[[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "48ddfc4225936a611f738b22b22b48cdc5977715ab75c21ffaa4d36d536e1147"
+metafile = true
+
+[[files]]
+file = "mods/better-compatibility-checker.pw.toml"
+hash = "c6db833d0e18e389bba8ce929f3caee7f45215c102ac85c481ca8c721008f8b3"
 metafile = true
 
 [[files]]
@@ -511,6 +531,26 @@ metafile = true
 [[files]]
 file = "mods/botarium.pw.toml"
 hash = "098dce9973ba88740458098f574f77cd8611b8aa9584916746ca135ef533309a"
+metafile = true
+
+[[files]]
+file = "mods/building-gadgets.pw.toml"
+hash = "8461b7344559646b5051a6d812e2cd4d43e62c8c817d17f0b2552f65306f43d4"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "e20c65099b272ff1848676dcc4d9e6025722ab35c60d9e1dfd1d36f44457cdea"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
+hash = "2d88c8932f077d343b4df477302cab4b66e912b73509c17781ea786c28c08461"
+metafile = true
+
+[[files]]
+file = "mods/citadel.pw.toml"
+hash = "454a06dd8f4f896dc23545a1ea4dcf304ca1265cdfe6c98b729d2943fb0b0341"
 metafile = true
 
 [[files]]
@@ -637,6 +677,11 @@ hash = "1bd064b812416bc467c2b236cc2904f00f9d36b0e994f5623d3e31897a1eb2d3"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "dec4a848fbbd45662a533444aa0749c230deb718b5117ceb279963e91ac78f85"
+metafile = true
+
+[[files]]
 file = "mods/fastfurnace.pw.toml"
 hash = "932ddad36de5cc064fd285cff392872050de95e262029d336e99f44e0ce01d97"
 metafile = true
@@ -726,8 +771,23 @@ hash = "2ca738aa0f011b34d0018a3860aab82d3e86d05f64ee74e22eafcebe1941e1af"
 metafile = true
 
 [[files]]
+file = "mods/mcjtylib.pw.toml"
+hash = "c7912aabbb629d0fb2d1c0cecf0923a1742feae7056dd1b9feb2c81b2c9aef73"
+metafile = true
+
+[[files]]
+file = "mods/mining-gadgets.pw.toml"
+hash = "d4a42351be29d476b540e810a2339b05f2f0cf789d62404da7c708b685c9ecda"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "049b2cb43144e1137204f579574a94c8520b33e3d6a39d6ad309f498b9387e40"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "e72f73611904e14d915418f0e3c6cb483cdc600e211375c2eceb393fec5b80f1"
 metafile = true
 
 [[files]]
@@ -756,6 +816,21 @@ hash = "f4bfe8f04847a5b590e59baaf47281273c2f0e54e0e99330eb38e91cfdc98fb4"
 metafile = true
 
 [[files]]
+file = "mods/refined-storage.pw.toml"
+hash = "4f8fa2d8bba834bac3240024294ff9f2881fe20e11d775a93497dec5d25be571"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "d64f9f2bec28a62c595d5be6c34bc11bd77970ddbcfc81cdafe6a4b4eabbc731"
+metafile = true
+
+[[files]]
+file = "mods/rftools-base.pw.toml"
+hash = "56ceaaa03bebe47af0cab04dba631fd17269a75f079ecf368e1cd90131a67073"
+metafile = true
+
+[[files]]
 file = "mods/server-country-flags.pw.toml"
 hash = "0fb5cb6492c8f7ae6e564386d3fa9ae124cabb99d1ecbf6d84f6bcb9f5cdbd46"
 metafile = true
@@ -763,6 +838,21 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "058ffeb5d53f7390b2cb3b91017ede768427893e43a433ec5d6e4b267547d5a6"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "5b8044347814e2099c47058c60680376c5acf64f6e87124d1734ae23aeb183fc"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "3f6894af067410277d2281acd6a674575694eb65e4e3514e4d96e32b06e4e0e2"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "9935c85e1d899d5bd69e83b51070cdca5ae9dc138bb6ccde8f76aac214df0cc0"
 metafile = true
 
 [[files]]
@@ -783,6 +873,11 @@ metafile = true
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
 hash = "08c2f56bec64aeb43ae003370351eaae0f1474387f9663765b281a25ba2049ce"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "5f7c7bb29895141d57fdc32823a169e3a851176760f8ceed6c00bc109b4288df"
 metafile = true
 
 [[files]]
