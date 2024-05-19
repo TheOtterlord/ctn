@@ -1,12 +1,12 @@
 name = "Create The Network"
 author = "Otterlord"
-version = "0.1.0"
+version = "0.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1f7247fab810fa1112fea264b7a45a25ac47f4f1e60d667caf201190ee31eb16"
+hash = "fd668c9a45ba5035739203d72806776212979d6758865603e3f80afcb1dfbab8"
 
 [versions]
 minecraft = "1.20.1"

@@ -1,0 +1,13 @@
+name = "Better Compatibility Checker"
+filename = "BetterCompatibilityChecker-neo-4.0.8+mc1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d65a01789a3a6b6b0763a576c00b93b4da210059"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4688941
+project-id = 551894
