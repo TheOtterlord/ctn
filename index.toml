@@ -593,6 +593,11 @@ file = "mods/create-track-map-1.4+mc1.20.1-neoforge.jar"
 hash = "d138d918fcf2ed2689e58696dfd465f56e00f6d166f30484a0ac04392322db8d"
 
 [[files]]
+file = "mods/create-track-map.pw.toml"
+hash = "9c29a2143f86c5ff6224071809c3ae1495cf76584ec0b1486f95b6ac0716654c"
+metafile = true
+
+[[files]]
 file = "mods/create-train-perspective-fix.pw.toml"
 hash = "4d4299391430b9140fccf68150b030b2d1bda3e0e9ab8b322b0e8542980f113d"
 metafile = true
@@ -698,6 +703,11 @@ hash = "10721d8e82b9c38c8715e6547a3f4c030a16e1e2c1fae1cb4cdc7b2e2126f1e3"
 [[files]]
 file = "mods/iceberg.pw.toml"
 hash = "ad39b6fb2bc55933c421297e8ecf931d82dcb056a5513ba3f3b407fdeaef7b02"
+metafile = true
+
+[[files]]
+file = "mods/interactive.pw.toml"
+hash = "3fc2c0c66bc9eea83561f2b2bafd4b2358dfef382bff4a3cbca5f15c72ca01e7"
 metafile = true
 
 [[files]]
