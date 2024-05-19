@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "complementary-unbound.pw.toml"
-hash = "a6abfa266c4e0aebf5fc8e640768baedb08e7cdadbf7e1b209561be82d5fa9b6"
-metafile = true
-
-[[files]]
 file = "config/CoroUtil/General.toml"
 hash = "da41baa38cd86e7388841af4095cb06b9f6f3a1c883cedfe6f0632ea129f4f06"
 
@@ -494,16 +489,6 @@ file = "config/xaeroworldmap.txt"
 hash = "2ea1a11fe48f7bd89299bfac3ff6d41cc976d9afed3c88a3ba14c398081a32b3"
 
 [[files]]
-file = "fastpbr-shader.pw.toml"
-hash = "671dc5e315f57d58f8f1d36b01e4c343ed8dd38a8eefa97e95ee013391e9fb79"
-metafile = true
-
-[[files]]
-file = "makeup-ultra-fast-shader.pw.toml"
-hash = "df4d4ee54931e349af1707d694511284726c5a971fb189b72a210f79296f5059"
-metafile = true
-
-[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "2823f67bc12454a6941062d99254aba1e31b2b9b639a030c2d5548df9df863d1"
 metafile = true
@@ -823,9 +808,4 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-moves.pw.toml"
 hash = "34da82fd47bd2904b5fa9741b1938909f52fa4a2acf9777d94b2f7354a1947f7"
-metafile = true
-
-[[files]]
-file = "solas-shader.pw.toml"
-hash = "4f31a9dbc346757844a22f9d6426bcd6f34401a98b022ef982f4996749a097af"
 metafile = true
